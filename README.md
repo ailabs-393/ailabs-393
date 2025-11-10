@@ -63,13 +63,6 @@ We welcome contributions! A typical contribution flow:
 3. Make your changes, add tests and docs.
 4. Commit and push: git push origin feature/your-feature
 5. Open a Pull Request describing the change.
-
-Please:
-- Open an issue first for larger features or architectural changes.
-- Follow the code style in each package.
-- Add/update README examples when changing public APIs.
-
-If you want help deciding where to start, open an issue with the label "good first issue" or contact us via GitHub discussions.
 ---
 
 ## Support & Contact
