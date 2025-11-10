@@ -53,6 +53,11 @@ Subscribe and check playlists: [![YouTube Playlists](https://img.shields.io/badg
 
 ---
 
+## More About Us 
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ai-labs-393&theme=react-dark)](https://github.com/ai-labs-393)
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/CHANNEL_ID?style=social)](https://www.youtube.com/@AILABS-393)
+
 ## Contributing
 
 We welcome contributions! A typical contribution flow:
