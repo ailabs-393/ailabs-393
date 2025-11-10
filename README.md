@@ -23,7 +23,7 @@ npm install <package-name-from-ai-labs-393>
 yarn add <package-name-from-ai-labs-393>
 ```
 
-## 🤝 Contributing
+### 🤝 Contributing
 
 We welcome community contributions:
 
@@ -34,3 +34,7 @@ We welcome community contributions:
 3. Commit and push your changes
 
 4. Submit a Pull Request
+
+### 🪪 License
+
+<p> Released under the MIT License. See <a href="https://github.com/ailabs-393/ailabs-393/blob/main/LICENSE">LICENSE</a> for details. </p>
