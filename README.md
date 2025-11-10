@@ -55,16 +55,19 @@ Subscribe and check playlists: [![YouTube Playlists](https://img.shields.io/badg
 
 ---
 
-
 ## Contributing
 
 We welcome contributions! A typical contribution flow:
 
 1. Fork the repository.
-2. Create a branch: git checkout -b feature/your-feature
-3. Make your changes, add tests and docs.
-4. Commit and push: git push origin feature/your-feature
-5. Open a Pull Request describing the change.
+2. Create a branch:
+   ```bash
+   git checkout -b feature/your-feature ```
+4. Make your changes, add tests and docs.
+5. Commit and push:
+   ```bash
+   git push origin feature/your-feature ```
+7. Open a Pull Request describing the change.
 
 ---
 ## Contact Us here
