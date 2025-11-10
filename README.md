@@ -37,4 +37,4 @@ We welcome community contributions:
 
 ### 🪪 License
 
-<p> Released under the MIT License. See <a href="https://github.com/ailabs-393/ailabs-393/blob/main/LICENSE">LICENSE</a> for details. </p>
+Released under the MIT License.
