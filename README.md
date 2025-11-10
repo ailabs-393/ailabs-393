@@ -1,4 +1,4 @@
-# AILABS
+# 🔬 AI LABS
 
 <div align="center">
   [![YouTube](https://img.shields.io/badge/YouTube-AILABS--393-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@AILABS-393)
@@ -9,25 +9,23 @@
 
 ## Overview
 
-**AILABS-393** is an AI-focused organization offering tools, packages, and educational video tutorials. This repository provides links, basic documentation, and resources to get started with AILABS-393 projects.
+**AILABS-393** ek AI-focused organization hai jo **tools, packages, aur educational video tutorials** offer karti hai. Yeh repository AILABS-393 ke projects ke saath shuru karne ke liye links, basic documentation, aur resources provide karta hai.
 
-<div align="center">
+---
 
 ### Key Links
 
-- 🌐 [Official Website](https://ailabs393.com/)
-- ▶️ [YouTube Channel](https://www.youtube.com/@AILABS-393)
-- 📦 [npm Profile](https://www.npmjs.com/~ai-labs-393)
-
-</div>
+* 🌐 **Official Website:** [https://ailabs393.com/](https://ailabs393.com/)
+* ▶️ **YouTube Channel:** [https://www.youtube.com/@AILABS-393](https://www.youtube.com/@AILABS-393)
+* 📦 **npm Profile:** [https://www.npmjs.com/~ai-labs-393](https://www.npmjs.com/~ai-labs-393)
 
 ---
 
 ## Quick Start
 
-1. Explore the [website](https://ailabs393.com/) for demos and documentation.
-2. Watch tutorials and walkthroughs on the [YouTube channel](https://www.youtube.com/@AILABS-393).
-3. Install npm packages from the [npm profile](https://www.npmjs.com/~ai-labs-393).
+1. [Website](https://ailabs393.com/) par demos aur documentation explore karen.
+2. [YouTube channel](https://www.youtube.com/@AILABS-393) par tutorials aur walkthroughs dekhen.
+3. [npm profile](https://www.npmjs.com/~ai-labs-393) se npm packages install karen.
 
 ### Installing an npm Package
 
