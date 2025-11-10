@@ -5,7 +5,6 @@
   [![YouTube](https://img.shields.io/badge/YouTube-AILABS--393-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@AILABS-393)
   [![npm](https://img.shields.io/badge/npm-ai--labs--393-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~ai-labs-393)
   [![GitHub org](https://img.shields.io/badge/GitHub-ailabs--393-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ailabs-393)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](./LICENSE)
   
 </div>
 
@@ -50,7 +49,7 @@ This repository is the central place for links and documentation to our projects
 
 We publish step-by-step video tutorials and short explainers on the AILABS-393 YouTube channel. Playlists typically match the projects and packages we maintain so you can follow along and code from scratch.
 
-Subscribe and check playlists: https://www.youtube.com/@AILABS-393
+Subscribe and check playlists: [![YouTube Playlists](https://img.shields.io/badge/YouTube-Playlists-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@AILABS-393/playlists)
 
 ---
 
@@ -63,8 +62,8 @@ We welcome contributions! A typical contribution flow:
 3. Make your changes, add tests and docs.
 4. Commit and push: git push origin feature/your-feature
 5. Open a Pull Request describing the change.
----
 
+---
 ## Support & Contact
 
 - GitHub: https://github.com/ailabs-393
