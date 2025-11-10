@@ -1,17 +1,13 @@
-# 🔬 AI LABS
-
-<div align="center">
-  [![YouTube](https://img.shields.io/badge/YouTube-AILABS--393-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@AILABS-393)
-  [![npm](https://img.shields.io/badge/npm-ai--labs--393-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~ai-labs-393)
-</div>
-
----
+## 🔬 AI LABS
 
 ## Overview
 
-**AILABS-393** ek AI-focused organization hai jo **tools, packages, aur educational video tutorials** offer karti hai. Yeh repository AILABS-393 ke projects ke saath shuru karne ke liye links, basic documentation, aur resources provide karta hai.
+AILABS-393 is an AI-focused organization that offers tools, packages, and educational video tutorials. This repository provides the links, basic documentation, and resources needed to get started with AILABS-393's projects.
 
 ---
+<div align="center">
+ [![npm version](https://img.shields.io/badge/npm-v2.0.1-blue?style=flat-square)](https://www.npmjs.com/~ai-labs-393)
+</div>
 
 ### Key Links
 
