@@ -14,19 +14,6 @@ AILABS-393 is an AI-focused organization that offers tools, packages, and educat
 
 </div>
 
-### Key Links
-
-* 🌐 **Official Website:** [https://ailabs393.com/](https://ailabs393.com/)
-* ▶️ **YouTube Channel:** [https://www.youtube.com/@AILABS-393](https://www.youtube.com/@AILABS-393)
-* 📦 **npm Profile:** [https://www.npmjs.com/~ai-labs-393](https://www.npmjs.com/~ai-labs-393)
-
----
-
-## Quick Start
-
-1. [Website](https://ailabs393.com/) par demos aur documentation explore karen.
-2. [YouTube channel](https://www.youtube.com/@AILABS-393) par tutorials aur walkthroughs dekhen.
-3. [npm profile](https://www.npmjs.com/~ai-labs-393) se npm packages install karen.
 
 ### Installing an npm Package
 
@@ -34,3 +21,16 @@ AILABS-393 is an AI-focused organization that offers tools, packages, and educat
 npm install <package-name-from-ai-labs-393>
 # or
 yarn add <package-name-from-ai-labs-393>
+```
+
+## 🤝 Contributing
+
+We welcome community contributions:
+
+1. Fork this repository
+
+2. Create a feature branch (git checkout -b feature/xyz)
+
+3. Commit and push your changes
+
+4. Submit a Pull Request
