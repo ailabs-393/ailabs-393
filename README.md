@@ -1,5 +1,5 @@
 <div align="center">
-  <span style="font-size:40px; font-weight:bold;">AI LABS</span>
+  <span style="font-size:100px; font-weight:bold;">AI LABS</span>
 </div>
 
 <div align="center">
