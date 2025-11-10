@@ -62,13 +62,14 @@ We welcome contributions! A typical contribution flow:
 1. Fork the repository.
 2. Create a branch:
    ```bash
-   git checkout -b feature/your-feature ```
+   git checkout -b feature/your-feature
+   ```
 4. Make your changes, add tests and docs.
 5. Commit and push:
    ```bash
-   git push origin feature/your-feature ```
+   git push origin feature/your-feature
+   ```
 7. Open a Pull Request describing the change.
-
 ---
 ## Contact Us here
 <div align="center">
@@ -81,7 +82,6 @@ We welcome contributions! A typical contribution flow:
   [![Instagram](https://img.shields.io/badge/Instagram-ailabs.yt-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ailabs.yt)
   
 </div>
-
 ---
 
 ## License
