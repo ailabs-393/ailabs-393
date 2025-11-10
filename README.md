@@ -6,11 +6,11 @@ AILABS-393 is an AI-focused organization that offers tools, packages, and educat
 
 ---
 <div align="center">
-
-[![npm version](https://img.shields.io/npm/v/ai-labs-claude-skills.svg?color=blue)](https://www.npmjs.com/package/ai-labs-claude-skills)
-[![npm downloads](https://img.shields.io/npm/dt/ai-labs-claude-skills.svg?color=brightgreen)](https://www.npmjs.com/package/ai-labs-claude-skills)
+  
+[![YouTube](https://img.shields.io/badge/YouTube-AILABS--393-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@AILABS-393)
+[![npm](https://img.shields.io/npm/dt/ai-labs-claude-skills.svg?color=brightgreen)](https://www.npmjs.com/~ai-labs-393)
 [![license](https://img.shields.io/npm/l/ai-labs-claude-skills.svg)](https://github.com/ailabs-393/ai-labs-claude-skills/blob/main/LICENSE)
-[![Node.js](https://img.shields.io/badge/Node.js-%3E%3D18-green)](https://nodejs.org)
+
 
 </div>
 
