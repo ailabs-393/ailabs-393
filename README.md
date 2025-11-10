@@ -1,4 +1,6 @@
-## 🔬 AI LABS 
+<div align="center">
+  <h2>AI LABS</h2>
+</div>
 
 <div align="center">
   
