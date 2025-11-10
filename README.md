@@ -24,14 +24,6 @@ If you're looking for simple, consumable building blocks for AI projects and cle
 
 ---
 
-## Highlights
-
-- YouTube: Practical video tutorials and walkthroughs — https://www.youtube.com/@AILABS-393
-- npm: Publish and discover packages under the ai-labs-393 scope — https://www.npmjs.com/~ai-labs-393
-- Open-source: Most projects released under the MIT License.
-
----
-
 ## Quickstart
 
 Install packages published by AILABS-393:
@@ -42,17 +34,6 @@ npm install <package-name-from-ai-labs-393>
 # or
 yarn add <package-name-from-ai-labs-393>
 ```
-
-Example usage (replace with the real package API in project READMEs):
-
-```js
-// Example: using an ai-labs-393 helper package
-import { awesomeHelper } from 'ai-labs-393-awesome';
-
-const result = await awesomeHelper({ input: 'Hello, AI Labs!' });
-console.log(result);
-```
-
 ---
 
 ## Projects & Packages
@@ -63,9 +44,6 @@ This repository is the central place for links and documentation to our projects
 - Examples
 - API / CLI usage
 - License
-
-(See the pinned repo list on our GitHub profile for the live projects.)
-
 ---
 
 ## Tutorials & Playlists
@@ -92,19 +70,6 @@ Please:
 - Add/update README examples when changing public APIs.
 
 If you want help deciding where to start, open an issue with the label "good first issue" or contact us via GitHub discussions.
-
----
-
-## Roadmap
-
-Planned items (examples — update per repo):
-- Publish a reusable LLM prompt library
-- Add TypeScript typings to all packages
-- Create end-to-end tutorial series for building an AI feature
-- CI / release automation for the npm org
-
-If you'd like to help implement any of these, open an issue or a PR.
-
 ---
 
 ## Support & Contact
