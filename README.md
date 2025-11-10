@@ -1,4 +1,4 @@
-## 🔬 AI LABS (AILABS-393)
+## 🔬 AI LABS 
 
 <div align="center">
   
