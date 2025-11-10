@@ -82,7 +82,6 @@ We welcome contributions! A typical contribution flow:
   [![Instagram](https://img.shields.io/badge/Instagram-ailabs.yt-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ailabs.yt)
   
 </div>
----
 
 ## License
 
