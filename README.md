@@ -53,10 +53,6 @@ Subscribe and check playlists: [![YouTube Playlists](https://img.shields.io/badg
 
 ---
 
-## More About Us 
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ai-labs-393&theme=react-dark)](https://github.com/ai-labs-393)
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/CHANNEL_ID?style=social)](https://www.youtube.com/@AILABS-393)
 
 ## Contributing
 
@@ -71,9 +67,20 @@ We welcome contributions! A typical contribution flow:
 ---
 ## Support & Contact
 
-- GitHub: https://github.com/ailabs-393
-- YouTube: https://www.youtube.com/@AILABS-393
-- npm org: https://www.npmjs.com/~ai-labs-393
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-ailabs--393-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ailabs-393)  
+[![YouTube](https://img.shields.io/badge/YouTube-AILABS--393-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@AILABS-393)  
+[![YouTube Playlists](https://img.shields.io/badge/Playlists-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@AILABS-393/playlists)  
+[![npm](https://img.shields.io/badge/npm-ai--labs--393-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~ai-labs-393)  
+
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/S2hD7b28Qy)  
+[![X](https://img.shields.io/badge/X-@ai_labs393-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ai_labs393)  
+[![Facebook](https://img.shields.io/badge/Facebook-ailabs-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=61567670378819)  
+[![Instagram](https://img.shields.io/badge/Instagram-ailabs.yt-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ailabs.yt)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ai--labs-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/107925167I)  
+
+</div>
 
 ---
 
