@@ -81,8 +81,10 @@ We welcome contributions! A typical contribution flow:
 
 ## License
 
-Released under the MIT License. See LICENSE for details.
+Released under the MIT License. 
 
 ---
 
 Thank you for visiting AI LABS — contributions, feedback, and collaboration are always welcome!
+
+Happy Coding :)
