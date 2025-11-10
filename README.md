@@ -1,4 +1,4 @@
-# AILABS-393
+# AILABS
 
 <div align="center">
   [![YouTube](https://img.shields.io/badge/YouTube-AILABS--393-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@AILABS-393)
@@ -35,20 +35,3 @@
 npm install <package-name-from-ai-labs-393>
 # or
 yarn add <package-name-from-ai-labs-393>
-```
-## Contributing
-
-if you want to contribute:
-
-- Fork this repository.
-- Create a feature branch:
-```bash 
-git checkout -b feature/your-feature-name
-```
-- Commit your changes and open a Pull Request (PR).
-
-## Contact 
-<p align="center"> 🌐 <a href="https://ailabs393.com/">Website</a> • ▶️ <a href="https://www.youtube.com/@AILABS-393">YouTube</a> • 📦 <a href="https://www.npmjs.com/~ai-labs-393">npm</a> </p>
-
-## License
-<p>This repository is licensed under the MIT License. See the <a href="https://github.com/ailabs-393/ailabs-393/blob/main/LICENSE">LICENSE</a> file for details.</p>
