@@ -1,10 +1,12 @@
 ## 🔬 AI LABS (AILABS-393)
 
 <div align="center">
+  
   [![YouTube](https://img.shields.io/badge/YouTube-AILABS--393-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@AILABS-393)
   [![npm](https://img.shields.io/badge/npm-ai--labs--393-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~ai-labs-393)
   [![GitHub org](https://img.shields.io/badge/GitHub-ailabs--393-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ailabs-393)
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](./LICENSE)
+  
 </div>
 
 Welcome to AI LABS — a collection of open-source tools, packages, and learning resources focused on practical AI and developer tooling. This repository acts as the home for links, docs, and quickstarts to the projects and tutorials produced by AILABS-393.
