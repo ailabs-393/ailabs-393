@@ -85,7 +85,7 @@ We welcome contributions! A typical contribution flow:
 
 ## Support Us
 
-<p>If you like our work, support us via <a href="https://buymeacoffee.com/ailabs393" target="_blank">Buy Me a Coffee ☕ </a>!</p>
+<p>If you like our work, support us via <a href="https://buymeacoffee.com/ailabs393" target="_blank">Buy Me a Coffee</a> ☕☕ </p>
 
 
 ## License
